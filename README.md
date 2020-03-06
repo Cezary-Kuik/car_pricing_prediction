@@ -4,5 +4,7 @@ Prognozowanie cen samochodów
 
 Zastosowane elementy:
 
+- Decision Tree
+- Random Forest
 - Dummy Model
 - XGBoost
