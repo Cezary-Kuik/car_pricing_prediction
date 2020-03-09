@@ -8,4 +8,4 @@ Zastosowane elementy:
 - Random Forest
 - Dummy Model
 - XGBoost
-HypeOpt
+- HypeOpt
