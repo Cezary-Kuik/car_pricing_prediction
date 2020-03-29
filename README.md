@@ -1,8 +1,6 @@
-# car_pricing_prediction
+# Prognozowanie cen samochodów
 
-Prognozowanie cen samochodów
-
-Zastosowane elementy:
+Zastosowane modele:
 
 - Decision Tree
 - Random Forest
